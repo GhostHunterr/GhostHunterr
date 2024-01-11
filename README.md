@@ -1,10 +1,23 @@
-- 👋 Hi there, I'm Farhan Sarang.
-- 👀 I'm passionate about developing games, software, and web applications that deliver a great user experience.
-- 🌱 Currently, I'm learning and expanding my skills in various programming languages and frameworks.
-- 💞️ I'm always looking to collaborate on exciting projects that challenge my abilities and provide opportunities for growth.
-- 📫 You can reach me through my email farhansarang7@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/farhan-sarang-01487a238/). Let's chat!
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmJicno1c2FteXkzZTN3YWU4cWZtbzY5d3IzM3BjOTRzajlqa2d6ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3kPDmoWdBpQPNhCnUG/giphy.gif" width = "150">
+</div>
 
-<!---
-GhostHunterr/GhostHunterr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div id="badges" align="center">
+  
+  <a href="">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="">
+  </a>
+  
+  <a href="">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="">
+  </a>
+  
+  <a href="">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="">
+  </a>
+  
+  <a href="">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="">
+  </a>
+  
+</div>
